@@ -1,0 +1,201 @@
+.bag-img {
+    background-image: url(bgc.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.col img {
+    width: 100%;
+}
+
+.row {
+    width: 100%;
+}
+
+.old {
+    padding-top: 350px;
+    text-align: center;
+
+    color: #FFFFFF;
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+}
+
+.catalog {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.contP {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 140%;
+    /* or 29px */
+
+    text-align: center;
+
+    /* accent */
+
+    color: #333333;
+}
+
+.contH {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* accent */
+
+    color: #333333;
+}
+
+.spanDiv {
+    text-align: center;
+}
+
+.myRow col img {
+    width: 100%;
+    height: 150px !important;
+}
+
+.darkDiv {
+    background-color: black;
+    padding: 30px;
+}
+
+.youNow {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 140%;
+    /* or 29px */
+
+    text-align: center;
+
+    /* white */
+
+    color: #FFFFFF;
+
+}
+
+.welcimeP{
+    font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+/* identical to box height */
+
+text-align: center;
+
+/* white */
+
+color: #FFFFFF;
+}
+
+
+.ojjo{
+    text-align: center;
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 140%;
+/* or 29px */
+
+text-align: center;
+
+/* accent */
+
+color: #333333;
+}
+
+.weInSot{
+    font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+/* identical to box height */
+
+text-align: center;
+
+/* accent */
+
+color: #333333;
+
+}
+
+
+li{
+    color: white;
+}
+
+.mySecondRow h1{
+    text-align: center;
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+/* accent */
+
+color: #333333;
+}
+
+.mySecondRow p{
+    text-align: center;
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+
+/* accent */
+
+color: #333333;
+}
+
+.dropdown{
+    background-color: #FFFFFF !important;
+}
+
+.center{
+    text-align: center;
+}
+
+
+.myCol img{
+    height: 100px;
+}
+
+.send{
+    width: 80%;
+}
